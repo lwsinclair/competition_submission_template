@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/minerllabs-competition-submission-template-badge.png)](https://mseep.ai/app/minerllabs-competition-submission-template)
+
 # NeurIPS 2021: MineRL Competition Starter Kit
 
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/BT9uegr)
